@@ -2,6 +2,7 @@ There are 2 datasets
 1- athletes : it has information about all the players participated in olympics
 
 2- athlete_events : it has information about all the events happened over the year.(athlete id refers to the id column in athlete table)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
   I have imported these datasets in sql server and solved below problems:
